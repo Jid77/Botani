@@ -78,9 +78,6 @@ if (c==1){digitalWrite(kipas, HIGH);
 Serial.println("KIPAS");}
 else{digitalWrite(kipas, LOW);}
 
-//Algoritma
- 
-
  
  if ( kelembaban > 87.50 || suhu < 23.50)
      {a=1;}
